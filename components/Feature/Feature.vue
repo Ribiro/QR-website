@@ -48,7 +48,7 @@
                 text="Create Menus Easily"
               />
               <p class="use-text-subtitle2">
-                QRMenu eliminates the phyiscal menu system. Create your menus and update them with ease.
+                QRMenu eliminates the physical menu system. Create your menus and update them with ease.
               </p>
             </div>
           </v-col>
@@ -69,8 +69,15 @@
                 <p class="use-text-subtitle2">
                   Generate a QR Code to help customers scan to your menus. Provides better customer experience.
                 </p>
+<!--                <p class="use-text-subtitle3">-->
+<!--                  See the recommended Scanning apps in the<nuxt-link to="/">-->
+<!--                  <img src="../../static/images/mobile/app-store.png" alt="app store" />-->
+<!--                <p>Coming Soon!</p>-->
+<!--                </nuxt-link>-->
+<!--                </p>-->
               </div>
             </v-col>
+
             <v-col md="6" cols="12" class="py-0">
               <div class="illustration-right">
                 <svg class="deco-secondary">
@@ -84,6 +91,7 @@
             </v-col>
           </v-row>
         </div>
+
         <div class="item last">
           <title-secondary align="center" :text="$t('mobileLanding.feature_title3')" />
           <p class="text-center use-text-subtitle2">
@@ -149,7 +157,17 @@ export default {
         mute: 0,
         origin: 'https://localhost:8006'
       },
-      yt: youtube
+      yt: youtube,
+      footers: [
+        {
+          title: 'Recommended Scanning Apps',
+          description: ['Android', 'iOS'],
+          link: [
+            'https://play.google.com/store/apps/details?id=com.maqr.barcode.free.qrandbarcodescanner.mavach.qrcode.reader.qrcodereader.qrcodescanner.quickbarecodescanner',
+            '#history'
+          ]
+        }
+      ]
     }
   },
   methods: {

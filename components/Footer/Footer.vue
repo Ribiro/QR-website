@@ -47,9 +47,7 @@
                     v-for="(item, index) in footer.description"
                     :key="index"
                   >
-                    <nuxt-link :to="footer.link[index]">
-                      {{ item }}
-                    </nuxt-link>
+                    <a :href="footer.link[index]">{{ item }}</a>
                   </li>
                 </ul>
               </v-expansion-panel-content>
@@ -71,9 +69,7 @@
                   v-for="(item, index) in footer.description"
                   :key="index"
                 >
-                  <nuxt-link :to="footer.link[index]">
-                    {{ item }}
-                  </nuxt-link>
+                  <a :href="footer.link[index]">{{ item }}</a>
                 </li>
               </ul>
             </v-col>
@@ -103,6 +99,7 @@
               <span class="ion-social-twitter icon" />
             </v-btn>
             <v-btn
+              href="https://instagram.com/"
               text
               icon
               class="button"
@@ -110,6 +107,7 @@
               <span class="ion-social-instagram icon" />
             </v-btn>
             <v-btn
+              href="https://www.linkedin.com/"
               text
               icon
               class="button"
@@ -152,25 +150,26 @@ export default {
     lang: 'en',
     footers: [
       {
-        title: 'Company',
-        description: ['Team', 'History', 'Contact us', 'Locations'],
-        link: ['#team', '#history', '#contact-us', '#locations']
-      },
-      {
-        title: 'Contacts',
-        description: [
-          '0715785748',
-          '0758513955',
-        ],
+        title: 'Recommended Scanning Apps',
+        description: ['Android', 'iOS'],
         link: [
-          '#resource',
-          '#resource-name',
+          'https://play.google.com/store/apps/details?id=com.maqr.barcode.free.qrandbarcodescanner.mavach.qrcode.reader.qrcodereader.qrcodescanner.quickbarecodescanner',
+          'https://apps.apple.com/ke/app/qr-code-qr-reader-scanner/id1180506724'
         ]
       },
       {
+        title: 'Contacts',
+        description: ['0715785748', '0758513955', '0727802446'],
+        link: ['#', '#', '#']
+      },
+      {
         title: 'Legal',
-        description: ['Privacy policy', 'Terms of use'],
-        link: ['#privacy-policy', '#terms-of-use']
+        description: ['Privacy policy', 'Terms of use', 'License'],
+        link: [
+          'https://superqrmenu.co.ke/privacy',
+          'https://superqrmenu.co.ke/privacy',
+          'https://superqrmenu.co.ke/license'
+        ]
       }
     ]
   }),

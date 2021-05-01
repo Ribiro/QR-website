@@ -73,19 +73,16 @@ const faqData = [
       'Development is still underway, we will notify you once it is completed. '
   },
   {
-    q: 'What happens when the free trial is over?',
-    a:
-      'We will give you a grace period of 5 days to clear your dues. '
+    q: 'Do you have a free trial?',
+    a: 'Yes. You can use the app for free for 30 days. '
   },
   {
-    q: 'Do you have a free trial?',
-    a:
-      'Yes. You can use the app for free for 30 days. '
+    q: 'What happens when the free trial is over?',
+    a: 'You have to subscribe to continue using the QRMenu services. '
   },
   {
     q: 'How much to pay after the free trial?',
-    a:
-      'Ksh.300 only, to be aid monthly. '
+    a: 'Ksh.300 only, to be paid monthly. '
   }
 ]
 

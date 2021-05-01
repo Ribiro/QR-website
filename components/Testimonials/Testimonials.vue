@@ -80,68 +80,63 @@ const testiContent = [
       'The web app is well engineered to meet the needs of the customers. Give it a try and you wont regret',
     avatar: imgAPI.avatar[0],
     name: 'Ribiro',
-    title: 'Chief Web Developer'
+    title: 'Web Developer'
   },
   {
     text:
       'The hotel/resturant/club owners are well covered as well. the mobile app is well engineered to ensure easy uploading on menus.',
-    avatar: imgAPI.avatar[10],
-    name: 'Eric',
-    title: 'Chief Mobile Developer'
-  },
-  {
-    text:
-      'The services are awesome! give it a try. Customers are really enjoying it.',
     avatar: imgAPI.avatar[1],
-    name: 'Jean Doe',
-    title: 'Chief Digital Officer'
+    name: 'Eric',
+    title: 'Mobile Developer'
   },
   {
     text:
-      'The services are awesome! give it a try. Customers are really enjoying it.',
+      'Its one of a kind, going to change the lives of many around the globe. Qrmenu has incredible services that nobody wishes to miss. The app is AI-driven and makes no mistakes. It sends the right traffic to your business and your needs. Install this digital app and change the way you market your products.',
     avatar: imgAPI.avatar[2],
-    name: 'Jena Doe',
-    title: 'Graphic Designer'
+    name: 'Henry Mwangi',
+    title: 'Research and Data Analyst'
   },
   {
-    text: 'The services are awesome! give it a try. Customers are really enjoying it.',
+    text: 'Testimonial goes here...',
     avatar: imgAPI.avatar[3],
-    name: 'Jovelin Doe',
-    title: 'Senior Graphic Designer'
+    name: 'Name',
+    title: 'title'
   },
   {
-    text:
-      'The services are awesome! give it a try. Customers are really enjoying it.',
+    text: 'Testimonial goes here...',
     avatar: imgAPI.avatar[4],
-    name: 'Jihan Doe'
+    name: 'Name',
+    title: 'title'
   },
   {
-    text:
-      'The services are awesome! give it a try. Customers are really enjoying it.',
+    text: 'Testimonial goes here...',
+    avatar: imgAPI.avatar[5],
+    name: 'Name',
+    title: 'title'
+  },
+  {
+    text: 'Testimonial goes here...',
     avatar: imgAPI.avatar[6],
-    name: 'Jovelin Doe',
-    title: 'Senior Graphic Designer'
+    name: 'Name',
+    title: 'title'
   },
   {
-    text:
-      'The services are awesome! give it a try. Customers are really enjoying it.',
+    text: 'Testimonial goes here...',
     avatar: imgAPI.avatar[7],
-    name: 'John Doe',
-    title: 'Senior Graphic Designer'
+    name: 'Name',
+    title: 'title'
   },
   {
-    text:
-      'The services are awesome! give it a try. Customers are really enjoying it.',
-    avatar: imgAPI.avatar[9],
-    name: 'John Doe',
-    title: 'Chief Digital Officer'
-  },
-  {
-    text:
-      'The services are awesome! give it a try. Customers are really enjoying it.',
+    text: 'Testimonial goes here...',
     avatar: imgAPI.avatar[8],
-    name: 'Jean Doe',
-    title: 'Chief Digital Officer'
+    name: 'Name',
+    title: 'title'
+  },
+  {
+    text: 'Testimonial goes here...',
+    avatar: imgAPI.avatar[9],
+    name: 'Name',
+    title: 'title'
   }
 ]
 

@@ -30,9 +30,9 @@
                 <img src="../../static/images/mobile/app-store.png" alt="app store" />
                 <p>Coming Soon!</p>
               </nuxt-link>
-              <nuxt-link to="/">
+              <a href="https://play.google.com/store/apps/details?id=org.eXpesa.Qrmenu">
                 <img src="../../static/images/mobile/play-store.png" alt="play store" />
-              </nuxt-link>
+              </a>
               <div id="watched_counter" />
             </div>
           </div>

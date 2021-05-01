@@ -44,7 +44,7 @@
                   :src="logo"
                   alt="logo"
                   height="100"
-                  width="50"
+                  width="100"
                 >
                 <span v-if="!isMobile">
                   QRMenu
@@ -112,16 +112,16 @@
             class="nav-menu"
           >
             <hidden v-if="!invert" point="xsDown">
-              <v-btn icon class="social-btn">
+              <v-btn icon class="social-btn" href="https://twitter.com/DennisRibiro">
                 <i class="ion-social-twitter" />
               </v-btn>
               <v-btn icon class="social-btn" href="https://web.facebook.com/QRMenu-103658015155669">
                 <i class="ion-social-facebook" />
               </v-btn>
-              <v-btn icon class="social-btn">
+              <v-btn icon class="social-btn" href="https://instagram.com/">
                 <i class="ion-social-instagram" />
               </v-btn>
-              <v-btn icon class="social-btn">
+              <v-btn icon class="social-btn" href="https://www.linkedin.com/">
                 <i class="ion-social-linkedin" />
               </v-btn>
             </hidden>

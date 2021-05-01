@@ -1,25 +1,26 @@
 <template>
   <v-container class="fixed-width">
-    <h4 class="text-center use-text-title2">
-      We are trusted by organizations across the country
-    </h4>
-    <u-animate-container>
-      <u-animate
-        :offset="-200"
-        name="fadeInUpShort"
-        delay="0.3s"
-        duration="0.5s"
-      >
-        <div class="root">
-          <img
-            v-for="(logo, index) in logos"
-            :key="index"
-            :src="logo"
-            :alt="'logo' + index"
-          >
-        </div>
-      </u-animate>
-    </u-animate-container>
+<!--    <h4 class="text-center use-text-title2">-->
+<!--      We are trusted by organizations across the country-->
+<!--    </h4>-->
+<!--    <u-animate-container>-->
+<!--      <u-animate-->
+<!--        :offset="-200"-->
+<!--        name="fadeInUpShort"-->
+<!--        delay="0.3s"-->
+<!--        duration="0.5s"-->
+<!--      >-->
+<!--        <div class="root">-->
+<!--        <p>Organizations will feature here!</p>-->
+<!--          <img-->
+<!--            v-for="(logo, index) in logos"-->
+<!--            :key="index"-->
+<!--            :src="logo"-->
+<!--            :alt="'logo' + index"-->
+<!--          >-->
+<!--        </div>-->
+<!--      </u-animate>-->
+<!--    </u-animate-container>-->
   </v-container>
 </template>
 
