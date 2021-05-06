@@ -13,6 +13,15 @@ const imgAPI = {
     '/images/avatars/pp_boy2.svg',
     '/images/avatars/pp_boy3.svg',
   ],
+  updated: [
+    '/images/updated/discover.jpg',
+    '/images/updated/filter.jpg',
+    '/images/updated/info.jpg',
+    '/images/updated/item.jpg',
+    '/images/updated/me.jpg',
+    '/images/updated/qr.jpg',
+    '/images/updated/web.jpg'
+  ],
   photo: [
     'https://via.placeholder.com/675x900/e1ad92/fff',
     'https://via.placeholder.com/967x725/ea6d6d/fff',
@@ -55,8 +64,8 @@ const imgAPI = {
     ''
   ],
   new: [
-    '/images/new/flip1.png',
-    '/images/new/flip2.png',
+    '/images/new/banner 1.png',
+    '/images/new/banner2-preview.png',
     '/images/new/video_cover.jpeg',
     '/images/new/banner.png',
     '/images/new/customer.jpeg',

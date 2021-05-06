@@ -32,9 +32,9 @@
         <v-row :class="[isMobile ? 'column-reverse' : 'row']">
           <v-col cols="12" md="6" class="py-0">
             <div class="illustration-left">
-              <svg class="deco-primary">
-                <use xlink:href="/images/mobile/deco-feature.svg#main" />
-              </svg>
+<!--              <svg class="deco-primary">-->
+<!--                <use xlink:href="/images/mobile/deco-feature.svg#main" />-->
+<!--              </svg>-->
               <parallax-small />
               <figure class="screen">
                 <img :src="imgAPI.new[0]" alt="illustration" />

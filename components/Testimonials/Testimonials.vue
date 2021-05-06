@@ -93,7 +93,7 @@ const testiContent = [
     text:
       'Its one of a kind, going to change the lives of many around the globe. Qrmenu has incredible services that nobody wishes to miss. The app is AI-driven and makes no mistakes. It sends the right traffic to your business and your needs. Install this digital app and change the way you market your products.',
     avatar: imgAPI.avatar[2],
-    name: 'Henry Mwangi',
+    name: "Henry Gathong'a",
     title: 'Research and Data Analyst'
   },
   {

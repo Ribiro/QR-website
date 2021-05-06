@@ -18,7 +18,7 @@
     "img/mobile-logo.0efd2dc.png",
     "img/play-store.4b91a12.png",
     "img/slick.f97e3bb.svg",
-    "index.30b89de.js",
+    "index.2970131.js",
     "lang-ar-AR.67206f5.js",
     "lang-de-DE.ac48e66.js",
     "lang-en-US.a54befc.js",
@@ -27,11 +27,11 @@
     "lang-pt-PT.418d2fe.js",
     "lang-zh-ZH.635867c.js",
     "pages/blank-page.fb27a51.js",
-    "runtime.7424da2.js",
+    "runtime.c57c1e4.js",
     "vendors~app.a124e8a.js"
   ],
   "initial": [
-    "runtime.7424da2.js",
+    "runtime.c57c1e4.js",
     "commons/app.1ab35bd.js",
     "vendors~app.a124e8a.js",
     "app.a08776d.js"
@@ -40,7 +40,7 @@
     "commons/contact~index.ac725ec.js",
     "commons/pages/contact.1a27833.js",
     "contact.b7e58b3.js",
-    "index.30b89de.js",
+    "index.2970131.js",
     "lang-ar-AR.67206f5.js",
     "lang-de-DE.ac48e66.js",
     "lang-en-US.a54befc.js",
@@ -57,11 +57,6 @@
       13
     ],
     "14033666": [
-      17,
-      15,
-      13
-    ],
-    "21136913": [
       17,
       15,
       13
@@ -2579,7 +2574,7 @@
       15,
       13
     ],
-    "436e9e85": [
+    "393f3057": [
       17,
       15,
       13
@@ -2587,12 +2582,12 @@
     "410c32da": [
       5
     ],
-    "6a9c6266": [
+    "5aa9bb2d": [
       17,
       15,
       13
     ],
-    "a3297d9e": [
+    "ca6b4590": [
       17,
       15,
       13
@@ -2753,12 +2748,12 @@
       15,
       13
     ],
-    "390ad8e7": [
+    "2edb6ab9": [
       17,
       15,
       13
     ],
-    "159cd531": [
+    "0b6d6703": [
       17,
       15,
       13
@@ -2785,17 +2780,22 @@
     "dbb312a4": [
       5
     ],
-    "6a138c48": [
+    "5a20e50f": [
       17,
       15,
       13
     ],
-    "6a179e12": [
+    "5a24f6d9": [
       17,
       15,
       13
     ],
-    "667610dd": [
+    "0d72851a": [
+      17,
+      15,
+      13
+    ],
+    "52d52ce4": [
       17,
       15,
       13
@@ -3123,7 +3123,7 @@
       15,
       13
     ],
-    "072fd846": [
+    "7cdb642f": [
       17,
       15,
       13
@@ -3133,7 +3133,7 @@
       15,
       13
     ],
-    "31d1d69a": [
+    "492b2c21": [
       17,
       15,
       13
@@ -3143,7 +3143,7 @@
       15,
       13
     ],
-    "78cf8936": [
+    "ba7b37a8": [
       17,
       15,
       13
@@ -3223,7 +3223,7 @@
       15,
       13
     ],
-    "437e730b": [
+    "781c7946": [
       17,
       15,
       13
@@ -3233,7 +3233,7 @@
       15,
       13
     ],
-    "0ccd2248": [
+    "242677cf": [
       17,
       15,
       13
@@ -3243,7 +3243,7 @@
       15,
       13
     ],
-    "469bf913": [
+    "25c621da": [
       17,
       15,
       13
@@ -3533,7 +3533,7 @@
       "contact.b7e58b3.js"
     ],
     "777ba69c": [
-      "index.30b89de.js"
+      "index.2970131.js"
     ],
     "c0ca11b8": [
       "lang-ar-AR.67206f5.js"
@@ -3560,7 +3560,7 @@
       "pages/blank-page.fb27a51.js"
     ],
     "6fca0322": [
-      "runtime.7424da2.js"
+      "runtime.c57c1e4.js"
     ],
     "7ec635d8": [
       "vendors~app.a124e8a.js"

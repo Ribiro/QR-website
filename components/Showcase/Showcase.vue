@@ -21,49 +21,49 @@
         >
           <div class="item">
             <v-card class="frame">
-              <img :src="imgAPI.new[15]" alt="app" />
+              <img :src="imgAPI.updated[0]" alt="app" />
             </v-card>
           </div>
           <div class="item">
             <v-card class="frame">
-              <img :src="imgAPI.new[10]" alt="app" />
+              <img :src="imgAPI.updated[1]" alt="app" />
             </v-card>
           </div>
           <div class="item">
             <v-card class="frame">
-              <img :src="imgAPI.new[7]" alt="app" />
+              <img :src="imgAPI.updated[2]" alt="app" />
             </v-card>
           </div>
           <div class="item">
             <v-card class="frame">
-              <img :src="imgAPI.new[6]" alt="app" />
+              <img :src="imgAPI.updated[3]" alt="app" />
             </v-card>
           </div>
           <div class="item">
             <v-card class="frame">
-              <img :src="imgAPI.new[8]" alt="app" />
+              <img :src="imgAPI.updated[4]" alt="app" />
             </v-card>
           </div>
           <div class="item">
             <v-card class="frame">
-              <img :src="imgAPI.new[11]" alt="app" />
+              <img :src="imgAPI.updated[5]" alt="app" />
             </v-card>
           </div>
           <div class="item">
             <v-card class="frame">
-              <img :src="imgAPI.new[14]" alt="app" />
+              <img :src="imgAPI.updated[6]" alt="app" />
             </v-card>
           </div>
-          <div class="item">
-            <v-card class="frame">
-              <img :src="imgAPI.new[12]" alt="app" />
-            </v-card>
-          </div>
-          <div class="item">
-            <v-card class="frame">
-              <img :src="imgAPI.new[4]" alt="app" />
-            </v-card>
-          </div>
+<!--          <div class="item">-->
+<!--            <v-card class="frame">-->
+<!--              <img :src="imgAPI.updated[12]" alt="app" />-->
+<!--            </v-card>-->
+<!--          </div>-->
+<!--          <div class="item">-->
+<!--            <v-card class="frame">-->
+<!--              <img :src="imgAPI.updated[4]" alt="app" />-->
+<!--            </v-card>-->
+<!--          </div>-->
         </slick>
       </div>
       <div class="carousel-center">
@@ -75,55 +75,55 @@
             @afterChange="handleActiveSlide"
           >
             <div class="item">
-              <img :src="imgAPI.new[15]" alt="app" />
+              <img :src="imgAPI.updated[0]" alt="app" />
 <!--              <div class="widget">-->
 <!--                <img :src="imgAPI.mobile[15]" alt="app" />-->
 <!--              </div>-->
             </div>
             <div class="item">
-              <img :src="imgAPI.new[10]" alt="app" />
+              <img :src="imgAPI.updated[1]" alt="app" />
 <!--              <div class="widget">-->
 <!--                <img :src="imgAPI.mobile[16]" alt="app" />-->
 <!--              </div>-->
             </div>
             <div class="item">
-              <img :src="imgAPI.new[7]" alt="app" />
+              <img :src="imgAPI.updated[2]" alt="app" />
 <!--              <div class="widget">-->
 <!--                <img :src="imgAPI.mobile[17]" alt="app" />-->
 <!--              </div>-->
             </div>
             <div class="item">
-              <img :src="imgAPI.new[6]" alt="app" />
+              <img :src="imgAPI.updated[3]" alt="app" />
 <!--              <div class="widget">-->
 <!--                <img :src="imgAPI.mobile[18]" alt="app" />-->
 <!--              </div>-->
             </div>
             <div class="item">
-              <img :src="imgAPI.new[8]" alt="app" />
+              <img :src="imgAPI.updated[4]" alt="app" />
 <!--              <div class="widget">-->
 <!--                <img :src="imgAPI.mobile[19]" alt="app" />-->
 <!--              </div>-->
             </div>
             <div class="item">
-              <img :src="imgAPI.new[11]" alt="app" />
+              <img :src="imgAPI.updated[5]" alt="app" />
 <!--              <div class="widget">-->
 <!--                <img :src="imgAPI.mobile[19]" alt="app" />-->
 <!--              </div>-->
             </div>
             <div class="item">
-              <img :src="imgAPI.new[14]" alt="app" />
+              <img :src="imgAPI.updated[6]" alt="app" />
 <!--              <div class="widget">-->
 <!--                <img :src="imgAPI.mobile[20]" alt="app" />-->
 <!--              </div>-->
             </div>
             <div class="item">
-              <img :src="imgAPI.new[12]" alt="app" />
+              <img :src="imgAPI.updated[3]" alt="app" />
 <!--              <div class="widget">-->
 <!--                <img :src="imgAPI.mobile[20]" alt="app" />-->
 <!--              </div>-->
             </div>
             <div class="item">
-              <img :src="imgAPI.new[4]" alt="app" />
+              <img :src="imgAPI.updated[4]" alt="app" />
 <!--              <div class="widget">-->
 <!--                <img :src="imgAPI.mobile[20]" alt="app" />-->
 <!--              </div>-->
