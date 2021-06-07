@@ -5,7 +5,7 @@
     class="notification"
   >
     <div class="action">
-      We appreciate you took time took your time to visit our website! May you have some good time.
+      We appreciate you took time took your time to visit our website! Qrmenu Subscription is now Ksh. 100 monthly, or Ksh. 1000 yearly. Have a good time going through our website!
     </div>
     <v-btn
       class="button"

@@ -22,6 +22,7 @@ const imgAPI = {
     '/images/updated/qr.jpg',
     '/images/updated/web.jpg'
   ],
+  discount: ['/images/discount/discount.png', '/images/discount/discount.jpg'],
   photo: [
     'https://via.placeholder.com/675x900/e1ad92/fff',
     'https://via.placeholder.com/967x725/ea6d6d/fff',
@@ -33,7 +34,6 @@ const imgAPI = {
     'https://via.placeholder.com/1051x700/b8de27/fff',
     'https://via.placeholder.com/1051x701/de9f27/fff',
     'https://via.placeholder.com/1050x700/ef4545/fff',
-    'https://via.placeholder.com/1050x700/ffc4c4/757575',
     'https://via.placeholder.com/640x447/fdffc4/757575',
     'https://via.placeholder.com/1280x851/c4ffd7/757575',
     'https://via.placeholder.com/640x425/c4cdff/757575'

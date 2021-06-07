@@ -82,7 +82,7 @@ const faqData = [
   },
   {
     q: 'How much to pay after the free trial?',
-    a: 'Ksh.300 only, to be paid monthly. '
+    a: 'Ksh.100 monthly, or Ksh. 1000 for a whole year '
   }
 ]
 

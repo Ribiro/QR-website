@@ -15,10 +15,10 @@
         <v-row class="spacing6 list-news">
           <v-col md="6" cols="12" class="pa-6">
             <news-card
-              :img="imgAPI.photo[11]"
+              :img="imgAPI.discount[1]"
               type="potrait"
-              caption="headline"
-              text="No headline at the moment!"
+              caption="Subscription Discount!"
+              text="Monthly subscription now Ksh.100. Or Ksh.1000 for a whole year!"
             />
           </v-col>
           <v-col md="6" cols="12" class="pa-6">
